@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="EmployeeInfo.css"?>
+
+<Employee>
+    <EmployeeInformation>Employee Information</EmployeeInformation>
+    <Name> <strong>Name:</strong> Qvell R. Crisostomo</Name>
+    <Address><strong>Address:</strong> 234 Maligaya St. Sta. Cruz Manila</Address>
+    <Age><strong>Age:</strong> 25</Age>
+    <EmploymentStatus> <strong>Employment Status:</strong> Part-timer</EmploymentStatus>
+    <Department><strong>Department:</strong> Registrar</Department>
+    <DateEmployed><strong>Date Employed:</strong> January 27, 2022</DateEmployed>
+    <DateResigned><strong>Date Resigned:</strong> November 8, 2024</DateResigned>
+</Employee>
